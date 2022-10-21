@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8wyV7OcLOp2DPTCFwSKhlctNIxYKlqwlhRSDUjs+q+84gN8NKO6zV/jJLSfGtGAgNU+AKy0y1de5xF7P4ts6Q==",
+  "success": true,
+  "projectFilePath": "/Users/mathisscheffler/DAWN/Dawn/Dawn/Dawn.csproj",
+  "expectedPackageFiles": [
+    "/Users/mathisscheffler/.nuget/packages/dein.toolbox/1.7.1/dein.toolbox.1.7.1.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/monogame.penumbra.desktopgl/2.1.0/monogame.penumbra.desktopgl.2.1.0.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/naudio/2.0.1/naudio.2.0.1.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/naudio.asio/2.0.0/naudio.asio.2.0.0.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/naudio.core/2.0.0/naudio.core.2.0.0.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/naudio.midi/2.0.1/naudio.midi.2.0.1.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/naudio.wasapi/2.0.0/naudio.wasapi.2.0.0.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/naudio.winforms/2.0.1/naudio.winforms.2.0.1.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/naudio.winmm/2.0.1/naudio.winmm.2.0.1.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/Users/mathisscheffler/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

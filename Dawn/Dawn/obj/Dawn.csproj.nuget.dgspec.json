@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mathisscheffler/DAWN/Dawn/Dawn/Dawn.csproj": {}
+  },
+  "projects": {
+    "/Users/mathisscheffler/DAWN/Dawn/Dawn/Dawn.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mathisscheffler/DAWN/Dawn/Dawn/Dawn.csproj",
+        "projectName": "Dawn",
+        "projectPath": "/Users/mathisscheffler/DAWN/Dawn/Dawn/Dawn.csproj",
+        "packagesPath": "/Users/mathisscheffler/.nuget/packages/",
+        "outputPath": "/Users/mathisscheffler/DAWN/Dawn/Dawn/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mathisscheffler/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Penumbra.DesktopGL": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "dein.ToolBox": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

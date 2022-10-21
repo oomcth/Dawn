@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/mathisscheffler/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/mathisscheffler/.nuget/packages/</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.9.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/mathisscheffler/.nuget/packages/" />
+  </ItemGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.DesktopGL/PenumbraHull.xnb" Condition="Exists('$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.DesktopGL/PenumbraHull.xnb')">
+      <NuGetPackageId>MonoGame.Penumbra.DesktopGL</NuGetPackageId>
+      <NuGetPackageVersion>2.1.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Content/bin/DesktopGL/Content.DesktopGL/PenumbraHull.xnb</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.DesktopGL/PenumbraLight.xnb" Condition="Exists('$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.DesktopGL/PenumbraLight.xnb')">
+      <NuGetPackageId>MonoGame.Penumbra.DesktopGL</NuGetPackageId>
+      <NuGetPackageVersion>2.1.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Content/bin/DesktopGL/Content.DesktopGL/PenumbraLight.xnb</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.DesktopGL/PenumbraShadow.xnb" Condition="Exists('$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.DesktopGL/PenumbraShadow.xnb')">
+      <NuGetPackageId>MonoGame.Penumbra.DesktopGL</NuGetPackageId>
+      <NuGetPackageVersion>2.1.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Content/bin/DesktopGL/Content.DesktopGL/PenumbraShadow.xnb</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.DesktopGL/PenumbraTexture.xnb" Condition="Exists('$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.DesktopGL/PenumbraTexture.xnb')">
+      <NuGetPackageId>MonoGame.Penumbra.DesktopGL</NuGetPackageId>
+      <NuGetPackageVersion>2.1.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Content/bin/DesktopGL/Content.DesktopGL/PenumbraTexture.xnb</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.WindowsDX/PenumbraHull.xnb" Condition="Exists('$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.WindowsDX/PenumbraHull.xnb')">
+      <NuGetPackageId>MonoGame.Penumbra.DesktopGL</NuGetPackageId>
+      <NuGetPackageVersion>2.1.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Content/bin/DesktopGL/Content.WindowsDX/PenumbraHull.xnb</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.WindowsDX/PenumbraLight.xnb" Condition="Exists('$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.WindowsDX/PenumbraLight.xnb')">
+      <NuGetPackageId>MonoGame.Penumbra.DesktopGL</NuGetPackageId>
+      <NuGetPackageVersion>2.1.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Content/bin/DesktopGL/Content.WindowsDX/PenumbraLight.xnb</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.WindowsDX/PenumbraShadow.xnb" Condition="Exists('$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.WindowsDX/PenumbraShadow.xnb')">
+      <NuGetPackageId>MonoGame.Penumbra.DesktopGL</NuGetPackageId>
+      <NuGetPackageVersion>2.1.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Content/bin/DesktopGL/Content.WindowsDX/PenumbraShadow.xnb</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.WindowsDX/PenumbraTexture.xnb" Condition="Exists('$(NuGetPackageRoot)monogame.penumbra.desktopgl/2.1.0/contentFiles/any/netstandard2.0/Content/bin/DesktopGL/Content.WindowsDX/PenumbraTexture.xnb')">
+      <NuGetPackageId>MonoGame.Penumbra.DesktopGL</NuGetPackageId>
+      <NuGetPackageVersion>2.1.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Content/bin/DesktopGL/Content.WindowsDX/PenumbraTexture.xnb</Link>
+    </Content>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <None Include="$(NuGetPackageRoot)dein.toolbox/1.7.1/contentFiles/any/any/cmd.bat" Condition="Exists('$(NuGetPackageRoot)dein.toolbox/1.7.1/contentFiles/any/any/cmd.bat')">
+      <NuGetPackageId>dein.ToolBox</NuGetPackageId>
+      <NuGetPackageVersion>1.7.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>cmd.bat</TargetPath>
+      <Private>True</Private>
+      <Link>cmd.bat</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)dein.toolbox/1.7.1/contentFiles/any/any/cmd.sh" Condition="Exists('$(NuGetPackageRoot)dein.toolbox/1.7.1/contentFiles/any/any/cmd.sh')">
+      <NuGetPackageId>dein.ToolBox</NuGetPackageId>
+      <NuGetPackageVersion>1.7.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>cmd.sh</TargetPath>
+      <Private>True</Private>
+      <Link>cmd.sh</Link>
+    </None>
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)monogame.content.builder.task/3.8.0.1641/build/MonoGame.Content.Builder.Task.props" Condition="Exists('$(NuGetPackageRoot)monogame.content.builder.task/3.8.0.1641/build/MonoGame.Content.Builder.Task.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMonoGame_Content_Builder_Task Condition=" '$(PkgMonoGame_Content_Builder_Task)' == '' ">/Users/mathisscheffler/.nuget/packages/monogame.content.builder.task/3.8.0.1641</PkgMonoGame_Content_Builder_Task>
+  </PropertyGroup>
+</Project>
