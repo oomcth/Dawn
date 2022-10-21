@@ -1,5 +1,5 @@
 # Dawn
-Changing Mac OS Background (Laggy)
+Dynamic Mac OS Background (Laggy)
 
 Here's a screenshot of the result of my code.
 
