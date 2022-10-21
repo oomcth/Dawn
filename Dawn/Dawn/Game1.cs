@@ -186,8 +186,8 @@ namespace Dawn
             _spriteBatch.End();
 
 
-            //save();
-            //Wallpaper.SET(iii);
+            save();
+            Wallpaper.SET(iii);
 
             base.Draw(gameTime);
         }
