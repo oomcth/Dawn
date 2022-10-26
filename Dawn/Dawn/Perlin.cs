@@ -48,12 +48,8 @@ namespace Dawn
 
 		public static double perlin(double x, double y, double z)
 		{
-			/*if (repeat > 0)
-			{                                   
-				x = x % repeat;
-				y = y % repeat;
-				z = z % repeat;
-			}*/
+
+			
 
 			int xi = (int)x & 255;                              
 			int yi = (int)y & 255;                              
